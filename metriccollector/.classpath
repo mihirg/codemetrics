@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jacoco/org.jacoco.core/0.7.2.201409121644/org.jacoco.core-0.7.2.201409121644.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jacoco/org.jacoco.report/0.7.2.201409121644/org.jacoco.report-0.7.2.201409121644.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jacoco/org.jacoco.agent/0.7.2.201409121644/org.jacoco.agent-0.7.2.201409121644.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-cli/commons-cli/1.2/commons-cli-1.2.jar"/>
+</classpath>
