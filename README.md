@@ -1,1 +1,2 @@
 # codemetrics
+Collects code metrics
